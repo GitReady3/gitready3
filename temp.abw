@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE abiword PUBLIC "-//ABISOURCE//DTD AWML 1.0 Strict//EN" "http://www.abisource.com/awml.dtd">
+<abiword template="false" xmlns:ct="http://www.abisource.com/changetracking.dtd" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xid-max="328" xmlns:dc="http://purl.org/dc/elements/1.1/" styles="unlocked" fileformat="1.0" xmlns:svg="http://www.w3.org/2000/svg" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="0.99.2" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:en-US; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
+<!-- ======================================================================== -->
+<!-- This file is an AbiWord document.                                        -->
+<!-- AbiWord is a free, Open Source word processor.                           -->
+<!-- More information about AbiWord is available at http://www.abisource.com/ -->
+<!-- You should not edit this file by hand.                                   -->
+<!-- ======================================================================== -->
+
+<metadata>
+<m key="abiword.date_last_changed">Tue Jan 23 16:11:43 2018
+</m>
+<m key="abiword.generator">AbiWord</m>
+<m key="dc.creator">student</m>
+<m key="dc.date">Tue Jan 23 16:11:43 2018
+</m>
+<m key="dc.format">application/x-abiword</m>
+</metadata>
+<rdf>
+</rdf>
+<history version="1" edit-time="920" last-saved="1516741903" uid="dedb8498-007f-11e8-9850-866b876f78e5">
+<version id="1" started="1516741903" uid="0314d8a8-0082-11e8-9850-866b876f78e5" auto="0" top-xid="328"/>
+</history>
+<styles>
+<s type="P" name="Normal" followedby="Current Settings" props="font-family:Times New Roman; margin-top:0pt; color:000000; margin-left:0pt; text-position:normal; widows:2; font-style:normal; text-indent:0in; font-variant:normal; font-weight:normal; margin-right:0pt; font-size:12pt; text-decoration:none; margin-bottom:0pt; line-height:1.0; bgcolor:transparent; text-align:left; font-stretch:normal"/>
+</styles>
+<pagesize pagetype="Letter" orientation="portrait" width="8.500000" height="11.000000" units="in" page-scale="1.000000"/>
+<section xid="262" props="page-margin-footer:0.5in; page-margin-header:0.5in">
+<p style="Normal" xid="263"><c></c></p>
+<table xid="4" props="table-row-heights:0.3750in/0.5625in/0.1875in/0.1875in/0.3750in/0.1875in/0.3750in/1.3125in/0.5625in/0.3750in/0.3750in/0.3750in/0.5625in/0.3750in/0.3750in/0.3750in/0.3750in/0.1875in/0.5625in/0.1875in/0.2500in/">
+<cell xid="5" props="bot-attach:1; left-attach:0; right-attach:1; top-attach:0">
+<p style="Normal" xid="6"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">Person says: How do I get to subway?</c></p>
+</cell>
+<cell xid="8" props="bot-attach:1; left-attach:1; right-attach:2; top-attach:0">
+<p style="Normal" xid="9" props="font-family:Times New Roman; font-size:12pt; lang:en-US; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none"><c props="font-family:Times New Roman; font-size:12pt; lang:en-US; text-position:normal; font-weight:normal; font-style:normal; text-decoration:none">Listen to the question and think about an answer</c></p>
+</cell>
+<cell xid="11" props="bot-attach:1; left-attach:2; right-attach:3; top-attach:0">
+<p style="Normal" xid="12"><c></c></p>
+</cell>
+<cell xid="14" props="bot-attach:2; left-attach:0; right-attach:1; top-attach:1">
+<p style="Normal" xid="15"><c></c></p>
+</cell>
+<cell xid="17" props="bot-attach:2; left-attach:1; right-attach:2; top-attach:1">
+<p style="Normal" xid="18">Determine the manner and tone to use to communicate with the person asking the question</p>
+</cell>
+<cell xid="20" props="bot-attach:2; left-attach:2; right-attach:3; top-attach:1">
+<p style="Normal" xid="21"><c></c></p>
+</cell>
+<cell xid="23" props="bot-attach:3; left-attach:0; right-attach:1; top-attach:2">
+<p style="Normal" xid="24"><c></c></p>
+</cell>
+<cell xid="26" props="bot-attach:3; left-attach:1; right-attach:2; top-attach:2">
+<p style="Normal" xid="27">Check your mood</p>
+</cell>
+<cell xid="29" props="bot-attach:3; left-attach:2; right-attach:3; top-attach:2">
+<p style="Normal" xid="30"><c></c></p>
+</cell>
+<cell xid="32" props="bot-attach:4; left-attach:0; right-attach:1; top-attach:3">
+<p style="Normal" xid="33"><c></c></p>
+</cell>
+<cell xid="35" props="bot-attach:4; left-attach:1; right-attach:2; top-attach:3">
+<p style="Normal" xid="36">If you are in a good mood</p>
+</cell>
+<cell xid="38" props="bot-attach:4; left-attach:2; right-attach:3; top-attach:3">
+<p style="Normal" xid="39"><c></c></p>
+</cell>
+<cell xid="41" props="bot-attach:5; left-attach:0; right-attach:1; top-attach:4">
+<p style="Normal" xid="42"><c></c></p>
+</cell>
+<cell xid="44" props="bot-attach:5; left-attach:1; right-attach:2; top-attach:4">
+<p style="Normal" xid="45"><c></c></p>
+</cell>
+<cell xid="47" props="bot-attach:5; left-attach:2; right-attach:3; top-attach:4">
+<p style="Normal" xid="48">Smile and speak in a friendly manner</p>
+</cell>
+<cell xid="50" props="bot-attach:6; left-attach:0; right-attach:1; top-attach:5">
+<p style="Normal" xid="51"><c></c></p>
+</cell>
+<cell xid="53" props="bot-attach:6; left-attach:1; right-attach:2; top-attach:5">
+<p style="Normal" xid="54">If you are in a bad mood</p>
+</cell>
+<cell xid="56" props="bot-attach:6; left-attach:2; right-attach:3; top-attach:5">
+<p style="Normal" xid="57"><c></c></p>
+</cell>
+<cell xid="59" props="bot-attach:7; left-attach:0; right-attach:1; top-attach:6">
+<p style="Normal" xid="60"><c></c></p>
+</cell>
+<cell xid="62" props="bot-attach:7; left-attach:1; right-attach:2; top-attach:6">
+<p style="Normal" xid="63"><c></c></p>
+</cell>
+<cell xid="65" props="bot-attach:7; left-attach:2; right-attach:3; top-attach:6">
+<p style="Normal" xid="66">Don’t smile but try not to be rude</p>
+</cell>
+<cell xid="68" props="bot-attach:8; left-attach:0; right-attach:1; top-attach:7">
+<p style="Normal" xid="69"><c></c></p>
+</cell>
+<cell xid="71" props="bot-attach:8; left-attach:1; right-attach:2; top-attach:7">
+<p style="Normal" xid="72">﻿Determine the level of specificity the person asking the question will need - should I ask them to count steps, or will vague directions be enough? Tailor your output to the desired audience</p>
+</cell>
+<cell xid="74" props="bot-attach:8; left-attach:2; right-attach:3; top-attach:7">
+<p style="Normal" xid="75"><c></c></p>
+</cell>
+<cell xid="77" props="bot-attach:9; left-attach:0; right-attach:1; top-attach:8">
+<p style="Normal" xid="78"><c></c></p>
+</cell>
+<cell xid="80" props="bot-attach:9; left-attach:1; right-attach:2; top-attach:8">
+<p style="Normal" xid="81">Determine where the Subway is in relation to your current location</p>
+</cell>
+<cell xid="83" props="bot-attach:9; left-attach:2; right-attach:3; top-attach:8">
+<p style="Normal" xid="84"><c></c></p>
+</cell>
+<cell xid="86" props="bot-attach:10; left-attach:0; right-attach:1; top-attach:9">
+<p style="Normal" xid="87"><c></c></p>
+</cell>
+<cell xid="89" props="bot-attach:10; left-attach:1; right-attach:2; top-attach:9">
+<p style="Normal" xid="90"><c></c></p>
+</cell>
+<cell xid="92" props="bot-attach:10; left-attach:2; right-attach:3; top-attach:9">
+<p style="Normal" xid="93">﻿Speak: When you leave this room (room 440/441), turn left.</p>
+</cell>
+<cell xid="95" props="bot-attach:11; left-attach:0; right-attach:1; top-attach:10">
+<p style="Normal" xid="96"><c></c></p>
+</cell>
+<cell xid="98" props="bot-attach:11; left-attach:1; right-attach:2; top-attach:10">
+<p style="Normal" xid="99">﻿Determine the landmarks that should be used to identify if the user is on the right track e.g.</p>
+<p style="Normal" xid="303">elevators</p>
+</cell>
+<cell xid="101" props="bot-attach:11; left-attach:2; right-attach:3; top-attach:10">
+<p style="Normal" xid="102"><c></c></p>
+<p style="Normal" xid="278"><c></c></p>
+<p style="Normal" xid="279"><c></c></p>
+<p style="Normal" xid="305"><c></c></p>
+<p style="Normal" xid="280"><c></c>Speak: Turn right into hallway with elevators. Take elevator to the 1st floor</p>
+</cell>
+<cell xid="104" props="bot-attach:12; left-attach:0; right-attach:1; top-attach:11">
+<p style="Normal" xid="105"><c></c></p>
+</cell>
+<cell xid="107" props="bot-attach:12; left-attach:1; right-attach:2; top-attach:11">
+<p style="Normal" xid="108">﻿Determine the landmarks that should be used to identify if the user is on the right track e.g. door to the right of elevator</p>
+</cell>
+<cell xid="110" props="bot-attach:12; left-attach:2; right-attach:3; top-attach:11">
+<p style="Normal" xid="111"><c></c></p>
+</cell>
+<cell xid="113" props="bot-attach:13; left-attach:0; right-attach:1; top-attach:12">
+<p style="Normal" xid="114"><c></c></p>
+</cell>
+<cell xid="116" props="bot-attach:13; left-attach:1; right-attach:2; top-attach:12">
+<p style="Normal" xid="117"><c></c></p>
+</cell>
+<cell xid="119" props="bot-attach:13; left-attach:2; right-attach:3; top-attach:12">
+<p style="Normal" xid="120">Speak: Exit the elevator and enter through the door on your right</p>
+</cell>
+<cell xid="122" props="bot-attach:14; left-attach:0; right-attach:1; top-attach:13">
+<p style="Normal" xid="123"><c></c></p>
+</cell>
+<cell xid="125" props="bot-attach:14; left-attach:1; right-attach:2; top-attach:13">
+<p style="Normal" xid="126"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">Determine the landmarks that should be used to identify if the user is on the right track e.g. stairs</c></p>
+</cell>
+<cell xid="128" props="bot-attach:14; left-attach:2; right-attach:3; top-attach:13">
+<p style="Normal" xid="129"><c></c></p>
+<p style="Normal" xid="313"><c></c></p>
+<p style="Normal" xid="314"><c></c></p>
+<p style="Normal" xid="315"><c></c></p>
+</cell>
+<cell xid="131" props="bot-attach:15; left-attach:0; right-attach:1; top-attach:14">
+<p style="Normal" xid="132"><c></c></p>
+</cell>
+<cell xid="134" props="bot-attach:15; left-attach:1; right-attach:2; top-attach:14">
+<p style="Normal" xid="135"></p>
+</cell>
+<cell xid="137" props="bot-attach:15; left-attach:2; right-attach:3; top-attach:14">
+<p style="Normal" xid="138"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">Speak: Continue straight until you reach a door. Open the door and walk down the stairs</c></p>
+</cell>
+<cell xid="140" props="bot-attach:16; left-attach:0; right-attach:1; top-attach:15">
+<p style="Normal" xid="141"><c></c></p>
+</cell>
+<cell xid="143" props="bot-attach:16; left-attach:1; right-attach:2; top-attach:15">
+<p style="Normal" xid="144"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">Determine the landmarks that should be used to identify if the user is on the right track e.g. double doors</c></p>
+</cell>
+<cell xid="146" props="bot-attach:16; left-attach:2; right-attach:3; top-attach:15">
+<p style="Normal" xid="147"></p>
+</cell>
+<cell xid="149" props="bot-attach:17; left-attach:0; right-attach:1; top-attach:16">
+<p style="Normal" xid="150"><c></c></p>
+</cell>
+<cell xid="152" props="bot-attach:17; left-attach:1; right-attach:2; top-attach:16">
+<p style="Normal" xid="153"><c></c></p>
+</cell>
+<cell xid="155" props="bot-attach:17; left-attach:2; right-attach:3; top-attach:16">
+<p style="Normal" xid="156"><c props="font-family:Times New Roman; font-size:12pt; color:000000; text-decoration:none; text-position:normal; font-weight:normal; font-style:normal; lang:en-US">Speak: Go through the double doors. Cross the road toward the Subway</c></p>
+</cell>
+<cell xid="158" props="bot-attach:18; left-attach:0; right-attach:1; top-attach:17">
+<p style="Normal" xid="159">Person says: Thank you</p>
+</cell>
+<cell xid="161" props="bot-attach:18; left-attach:1; right-attach:2; top-attach:17">
+<p style="Normal" xid="162"><c></c></p>
+</cell>
+<cell xid="164" props="bot-attach:18; left-attach:2; right-attach:3; top-attach:17">
+<p style="Normal" xid="165"><c></c></p>
+</cell>
+<cell xid="167" props="bot-attach:19; left-attach:0; right-attach:1; top-attach:18">
+<p style="Normal" xid="168"><c></c></p>
+</cell>
+<cell xid="170" props="bot-attach:19; left-attach:1; right-attach:2; top-attach:18">
+<p style="Normal" xid="171">﻿Understand that gratitude has been expressed and respond accordingly</p>
+</cell>
+<cell xid="173" props="bot-attach:19; left-attach:2; right-attach:3; top-attach:18">
+<p style="Normal" xid="174"><c></c></p>
+</cell>
+<cell xid="176" props="bot-attach:20; left-attach:0; right-attach:1; top-attach:19">
+<p style="Normal" xid="177"><c></c></p>
+</cell>
+<cell xid="179" props="bot-attach:20; left-attach:1; right-attach:2; top-attach:19">
+<p style="Normal" xid="180"><c></c></p>
+</cell>
+<cell xid="182" props="bot-attach:20; left-attach:2; right-attach:3; top-attach:19">
+<p style="Normal" xid="183">﻿Speak: You're welcome</p>
+</cell>
+<cell xid="185" props="bot-attach:21; left-attach:0; right-attach:1; top-attach:20">
+<p style="Normal" xid="186"><c></c></p>
+</cell>
+<cell xid="188" props="bot-attach:21; left-attach:1; right-attach:2; top-attach:20">
+<p style="Normal" xid="189"><c></c></p>
+</cell>
+<cell xid="191" props="bot-attach:21; left-attach:2; right-attach:3; top-attach:20">
+<p style="Normal" xid="192"><c></c></p>
+</cell>
+</table>
+<p style="Normal" xid="2"><c></c></p>
+<p style="Normal" xid="1"><c></c></p>
+</section>
+</abiword>
