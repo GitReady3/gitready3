@@ -1,15 +1,24 @@
   
 |Input              |Process                                 |Output               $
 |-------------------|----------------------------------------|---------------------$
-|Person says: How do I get to the Bathroom?                   |                    $
+|                   |                                        |Speak: When you leave this room (room 440/441), turn left and continue past the elevators.                    $
 
 
 |Input              |Process                                 |Output               $
 |-------------------|----------------------------------------|---------------------$
-|Person says: How do I get to the Bathroom?                   |                    $
+|                   |                                        |Speak:Turn left just before the glass doors to the reception. Look for the bathrooms on your left.                    $
 
 
 |Input              |Process                                 |Output               $
 |-------------------|----------------------------------------|---------------------$
-|Person says: How do I get to the Bathroom?                   |                                        | Speak:Hello         $
+|Person thanks you  |Understand that gratitude has been expressed and respond accordingly |                     $
+
+
+|Input              |Process                                 |Output               $
+|-------------------|----------------------------------------|---------------------$
+|                   |                                        |Speak: You're welcome   |
+ 
+|Input              |Process                                 |Output               $
+|-------------------|----------------------------------------|---------------------$
+|                   |                                        |Stay Silent   | 
 
