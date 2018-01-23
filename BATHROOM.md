@@ -1,5 +1,4 @@
-  
-<<<<<<< HEAD
+
 |Input              |Process                                 |Output              
 |-------------------|----------------------------------------|--------------------
 |Person says: How do I get to the Bathroom? |Listen to the question and think about an answer |                   
@@ -19,5 +18,5 @@
 |Input              |Process                                 |Output               
 |-------------------|----------------------------------------|---------------------
 |Person says: How do I get to the Bathroom?                  |                                        | Speak:Hello         
->>>>>>> 3c43d7c203ce981a06fb6fc618003f5d22675599
+
 
